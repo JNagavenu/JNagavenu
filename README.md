@@ -71,12 +71,11 @@ me.say_hi()
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 🛠️ Tech Stack |
-|:-----------|:--------------|:--------------|
-| [🛒 Manjil Mart E-Commerce](https://github.com/JNagavenu/manjil-mart-ecommerce) | Full frontend e-commerce website with cart & login simulation | HTML, CSS, JavaScript |
-| [📚 LMS Laravel Project](https://github.com/JNagavenu/LMS-Laravel-Project) | Learning Management System with integrated chatbot | Laravel, PHP, Blade |
-| [🐍 Python Project](https://github.com/JNagavenu/python-project) | Collection of Python programs and utilities | Python |
-| [📅 Days Calculator](https://github.com/JNagavenu/Days-Calculator1) | Smart date difference calculator built in Python | Python |
+| 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Live Demo |
+|:-----------|:--------------|:--------------|:------------:|
+| [🛒 Manjil Mart E-Commerce](https://github.com/JNagavenu/manjil-mart-ecommerce) | Frontend e-commerce website with cart & login simulation | HTML, CSS, JavaScript | [▶ Live](https://jnagavenu.github.io/manjil-mart-ecommerce/) |
+| [📚 LMS Laravel Project](https://github.com/JNagavenu/LMS-Laravel-Project) | Learning Management System with integrated chatbot | Laravel, PHP, Blade | [▶ Live](https://lms-project-production-6dd0.up.railway.app) |
+| [🐍 Python Project](https://github.com/JNagavenu/python-project) | Collection of Python programs and utilities | Python | [📂 Code](https://github.com/JNagavenu/python-project) |
 
 </div>
 
