@@ -96,13 +96,14 @@ me.say_hi()
 
 ---
 
-## 🎯 My Goals for 2025
+## 🎯 My Goals for 2026
 
-- [ ] 🔥 Master **Data Structures & Algorithms**
-- [ ] 📦 Build **5+ full-stack projects**
-- [ ] ☁️ Learn **Cloud fundamentals (AWS)**
-- [ ] 🎯 Crack a **top product-based company interview**
-- [ ] 🤝 Contribute to **Open Source**
+- Build strong problem-solving skills in Data Structures and Algorithms  
+- Develop impactful full-stack projects with real-world applications  
+- Learn system design fundamentals for scalable software  
+- Gain hands-on experience with cloud and deployment  
+- Contribute to open-source projects and collaborations  
+- Secure a Software Development Engineer (SDE) role  
 
 ---
 
