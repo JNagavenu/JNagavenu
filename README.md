@@ -74,7 +74,7 @@ me.say_hi()
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Live Demo |
 |:-----------|:--------------|:--------------|:------------:|
 | [🛒 Manjil Mart E-Commerce](https://github.com/JNagavenu/manjil-mart-ecommerce) | Frontend e-commerce website with cart & login simulation | HTML, CSS, JavaScript | [▶ Live](https://jnagavenu.github.io/manjil-mart-ecommerce/) |
-| [📚 LMS Laravel Project](https://github.com/JNagavenu/LMS-Laravel-Project) | Learning Management System with integrated chatbot | Laravel, PHP, Blade | [▶ Live](https://lms-project-production-6dd0.up.railway.app) |
+| [📚 LMS Laravel Project](https://github.com/JNagavenu/LMS-Laravel-Project) | Learning Management System with integrated chatbot | Laravel, PHP, Blade | [▶ Watch Demo](https://www.youtube.com/watch?v=s2ZIbZFB4Qo) |
 | [🐍 Python Project](https://github.com/JNagavenu/python-project) | Collection of Python programs and utilities | Python | [📂 Code](https://github.com/JNagavenu/python-project) |
 
 </div>
