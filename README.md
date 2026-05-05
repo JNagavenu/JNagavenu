@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B+I'm+Naga+Venu;Passionate+Python+%26+Java+Developer;Building+cool+web+projects;Dreaming+of+Amazon+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B+I'm+Naga+Venu;Passionate+Python+%26+Java+Developer;Building+cool+web+projects;Aspiring+SDE+%7C+Dreaming+big+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,7 +27,7 @@ class NagaVenuYadav:
         self.name        = "J Naga Venu Yadav"
         self.username    = "JNagavenu"
         self.location    = "India 🇮🇳"
-        self.goal        = "Software Engineer @ Amazon 🚀"
+        self.goal        = "Aspiring SDE | Dreaming big, building bigger 🚀"
         self.languages   = ["Python", "Java", "JavaScript"]
         self.web_skills  = ["HTML", "CSS", "Laravel", "PHP"]
         self.learning    = ["Data Structures", "Algorithms", "System Design"]
@@ -101,7 +101,7 @@ me.say_hi()
 - [ ] 🔥 Master **Data Structures & Algorithms**
 - [ ] 📦 Build **5+ full-stack projects**
 - [ ] ☁️ Learn **Cloud fundamentals (AWS)**
-- [ ] 🎯 Crack **Amazon SDE interview**
+- [ ] 🎯 Crack a **top product-based company interview**
 - [ ] 🤝 Contribute to **Open Source**
 
 ---
